@@ -1,4 +1,14 @@
-# AZ-204: Developing solutions for Microsoft Azure
+# Azure for Developers - 1 day
+
+The original labs can be challenging unless you are an experienced dotnet developer. 
+
+Here are some labs suitable for a one day introductory course:
+[Customized labs](single-day-labs.md)
+
+
+Below are the original labs microsoft learning if you are feeling brave.
+
+### AZ-204: Developing solutions for Microsoft Azure
 
 Clone or download this repo to your local machine. The AllFiles folder contains starter and solution projects for each module.
 
